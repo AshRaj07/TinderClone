@@ -1,0 +1,13 @@
+img{
+    height: 75px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.header__button{
+    margin:0px 15px;
+}
